@@ -276,11 +276,11 @@ nav {
 
 .Proj_box2 p {
   font-size: 16px; /* Adjust the font size */
-  color: #ffffff; /* Set a text color */
+  color: #4a4a4a; /* Set a text color */
   line-height: 1.6; /* Make the text more readable */
 }
 .Proj_box2 a:hover{
-    color:#ffffff;
+    color: #ffffff;
   }
 
 
