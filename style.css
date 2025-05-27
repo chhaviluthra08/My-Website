@@ -279,5 +279,9 @@ nav {
   color: #ffffff; /* Set a text color */
   line-height: 1.6; /* Make the text more readable */
 }
+a:hover{
+    color:#ffffff;
+  }
+
 
 
